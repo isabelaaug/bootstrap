@@ -1,0 +1,38 @@
+.navbar {
+    background: #34BCB7;
+}
+
+.quem-somos {
+    background: #88E3E0;
+}
+
+.margin {
+    margin-top: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.espacamento {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h3 {
+    padding-bottom: 20px;
+}
+
+h5 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    padding-top: 20px;
+}
+
+footer {
+    background: #34BCB7;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
